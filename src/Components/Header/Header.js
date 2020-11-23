@@ -1,10 +1,10 @@
 import React from "react";
-import "./Navbar.css";
+import "./Header.css";
 import { Link, useLocation } from "react-router-dom";
 
 
 
-function Navbar() {
+function Header() {
     const location = useLocation();
     return (
         <header>
@@ -40,4 +40,4 @@ function Navbar() {
     );
 }
 
-export default Navbar;
+export default Header;
