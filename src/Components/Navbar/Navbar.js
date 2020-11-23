@@ -8,7 +8,7 @@ function Navbar() {
     const location = useLocation();
     return (
         <header>
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav className="navbar navbar-expand-lg navbar-light ">
                 <div className="nameBrand"> <span className="C">C</span><span className="asey"
                 >asey</span><span className="M">M</span><span
                     className="organ">organ</span></div>
