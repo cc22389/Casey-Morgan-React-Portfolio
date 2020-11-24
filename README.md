@@ -15,6 +15,8 @@ It is a re-creation of Casey Morgan's online portfolio. The below links provide 
 
 * [Usage](#usage)
 
+* [Routes of Interest](#routes&nbsp;of&nbsp;interest)
+
 * [Dependencies](#dependencies)
 
 * [License](#license)
@@ -32,6 +34,8 @@ To install necessary dependencies, run the following command:
 ```
 npm i
 ```
+[Back to Table of Contents](#table&nbsp;of&nbsp;contents)
+
 
 ## Usage
 
@@ -78,7 +82,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Routes of interest
+[Back to Table of Contents](#table&nbsp;of&nbsp;contents)
+
+
+## Routes of Interest
+
 
 ### Homepage (/)
 ![Homepage](/Assets/Images/Homepage.PNG)
@@ -86,6 +94,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### /portfolio
 ![Portfolio](/Assets/Images/Portfolio.PNG)
+
+[Back to Table of Contents](#table&nbsp;of&nbsp;contents)
+
 
 ## Dependencies
 
@@ -101,13 +112,22 @@ This application is dependant on:
 * react-router-dom: ^5.2.0
 * react-scripts: 4.0.0
 
+[Back to Table of Contents](#table&nbsp;of&nbsp;contents)
+
+
 ## License
 
 This project is licensed under the Unlicense license.
+
+[Back to Table of Contents](#table&nbsp;of&nbsp;contents)
+
   
 ## Contributing
 
-No need to contribute for this example
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+[Back to Table of Contents](#table&nbsp;of&nbsp;contents)
+
 
 ## Links
 
@@ -115,6 +135,11 @@ No need to contribute for this example
 
 * Deployed URL - https://cc22389.github.io/Casey-Morgan-React-Portfolio/
 
+[Back to Table of Contents](#table&nbsp;of&nbsp;contents)
+
+
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at caseyjeanmorgan@gmail.com. You can find more of my work at [cc22389](https://github.com/cc22389/).
+
+[Back to Table of Contents](#table&nbsp;of&nbsp;contents)
