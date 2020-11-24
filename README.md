@@ -133,7 +133,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 * Github Repository - https://github.com/cc22389/Casey-Morgan-React-Portfolio.git
 
-* Deployed URL - https://cc22389.github.io/Casey-Morgan-React-Portfolio/
+* Deployed URL - https://casey-morgan-react-portfolio.herokuapp.com/
 
 [Back to Table of Contents](#table&nbsp;of&nbsp;contents)
 
